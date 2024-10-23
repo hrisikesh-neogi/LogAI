@@ -29,7 +29,3 @@ We welcome contributions from the community! Please read our [contributing guide
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](link-to-license) file for details.
-
----
-
-Feel free to modify any parts of this description to better match your vision for the project or to include additional sections like "Roadmap" or "Acknowledgments" as needed!
